@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700&subset=latin-ext');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #e5e5e5;
+}
+
+h3 {
+    text-transform: uppercase;
+}
+
+.text-1 {
+    background-color: #fff;
+    color: #000;
+    max-width: 70vw;
+    margin: 20px auto;
+    padding: 20px;
+    box-shadow: 2px 3px 15px;
+}
