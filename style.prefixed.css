@@ -6,6 +6,7 @@ body {
 
 h3 {
     text-transform: uppercase;
+    display: -ms-flexbox;
     display: flex;
 }
 
@@ -18,4 +19,4 @@ h3 {
     box-shadow: 2px 3px 15px;
 }
 
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=style.prefixed.css.map */
